@@ -17,7 +17,7 @@
 I focus on merging aesthetics with high-performance architecture. From crafting **cinematic digital experiences** to engineering **enterprise-grade ERP systems**, I build tools that solve real-world problems.
 
 - 🔭 **Current Focus:** Developing localized AI solutions and scalable business architectures.
-- 🎓 **Background:** Blending technical engineering with a deep understanding of Finance and Management.
+- 🎓 **Hobbies:**  Playing Football and Solving Problems.
 - 🗣️ **Multilingual:** Communicating and building in **English, Swahili, and French.**
 - ⚡ **Philosophy:** Code should be as beautiful under the hood as it is on the screen.
 
