@@ -1,15 +1,36 @@
-Hi 👋 My name is Allen Kileo
-============================
+<div align="center">
+  <h1>Hi 👋 I'm Allen Kileo</h1>
+  <p><strong>Web Developer & Designer | Crafting Digital Experiences</strong></p>
 
-Web Developer and Designer
---------------------------
+  <a href="https://allenkileo.netlify.app/"><b>Portfolio</b></a> • 
+  <a href="mailto:allenkileo7@gmail.com"><b>Email</b></a> • 
+  <a href="https://www.linkedin.com/in/YOUR_LINK"><b>LinkedIn</b></a>
+</div>
 
-*   🌍  I'm based in Arusha, Tanzania
-*   🖥️  See my portfolio at [allenkileo.netlify.app](http://allenkileo.netlify.app)
-*   ✉️  You can contact me at [allenkileo7@gmail.com](mailto:allenkileo7@gmail.com)
-*   🤝  I'm open to collaborating on Interesting Projects
-*   ⚡  Let's Build and Ship Goooooood Stuff### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
+---
+
+### 🧱 Building from Arusha, Tanzania 🌍
+I focus on merging aesthetics with functionality. Whether it's a sleek landing page or a complex web application, my goal is always the same: **Build and Ship Goooooood Stuff.**
+
+- 🔭 I’m currently working on high-performance web solutions.
+- 🤝 I’m open to collaborating on **Interesting Projects** that challenge the status quo.
+- ⚡ Fun fact: I believe great design is invisible.
+
+---
+
+### 🛠️ The Toolbox (Skills)
+
+| Frontend | Design | Tools |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 | UI/UX Design | Git / GitHub |
+| JavaScript / React | Figma / Adobe XD | VS Code |
+| Tailwind CSS | Responsive Layouts | Netlify / Vercel |
+
+---
+
+### 📊 My Ecosystem
+![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenki1eo&show_icons=true&theme=transparent)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=allenki1eo&color=blue" alt="Profile Views" />
+</div>
